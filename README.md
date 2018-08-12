@@ -1,3 +1,2 @@
 # Python
-General questions solved while using python
-Learned Python syntax,some function use etc
+#This repo contains everything I learned ,from basic syntax to writing classes and other challenging quetions.
